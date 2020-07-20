@@ -1,0 +1,34 @@
+ .User {
+  margin: 10px;
+  box-shadow: 1px 1px 5px 2px rgba(0, 0, 0, 0.1);
+}
+
+.User a {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  text-decoration: none;
+  color: #000000;
+}
+
+.User__selected {
+  box-shadow: 1px 1px 5px 3px rgba(0, 0, 0, 0.3);
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.User:hover {
+  box-shadow: 1px 1px 5px 3px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+}
+
+.User__count {
+  height: 40px;
+  width: 42px;
+  padding: 10px;
+  border-radius: 50%;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #ffffff;
+  text-align: center;
+  box-sizing: border-box;
+}

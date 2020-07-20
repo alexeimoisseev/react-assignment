@@ -1,0 +1,25 @@
+.Filters {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Filters__sorting {
+  display: flex;
+}
+.Filters__selected {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.Filters__item {
+  cursor: pointer;
+  font-size: 14px;
+  padding: 10px;
+
+}
+
+.Filters__query input {
+  font-size: 20px;
+  padding: 2px;
+  box-sizing: border-box;
+  width: 300px;
+}
