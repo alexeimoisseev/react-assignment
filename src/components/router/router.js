@@ -1,7 +1,7 @@
 import React from 'react';
 
 import {
-  BrowserRouter as Router,
+  HashRouter as Router, // to use in gh-pages
   Switch,
   Redirect,
   Route,
