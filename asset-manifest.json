@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "http://alexeimoisseev.github.io/react-assignment/static/css/main.d78d4d91.chunk.css",
-    "main.js": "http://alexeimoisseev.github.io/react-assignment/static/js/main.4dd8235f.chunk.js",
-    "main.js.map": "http://alexeimoisseev.github.io/react-assignment/static/js/main.4dd8235f.chunk.js.map",
-    "runtime-main.js": "http://alexeimoisseev.github.io/react-assignment/static/js/runtime-main.8abf9fc5.js",
-    "runtime-main.js.map": "http://alexeimoisseev.github.io/react-assignment/static/js/runtime-main.8abf9fc5.js.map",
-    "static/js/2.de094eab.chunk.js": "http://alexeimoisseev.github.io/react-assignment/static/js/2.de094eab.chunk.js",
-    "static/js/2.de094eab.chunk.js.map": "http://alexeimoisseev.github.io/react-assignment/static/js/2.de094eab.chunk.js.map",
-    "index.html": "http://alexeimoisseev.github.io/react-assignment/index.html",
-    "precache-manifest.b354b7e0eaf7e2fdd1716f6da32b4a42.js": "http://alexeimoisseev.github.io/react-assignment/precache-manifest.b354b7e0eaf7e2fdd1716f6da32b4a42.js",
-    "service-worker.js": "http://alexeimoisseev.github.io/react-assignment/service-worker.js",
-    "static/css/main.d78d4d91.chunk.css.map": "http://alexeimoisseev.github.io/react-assignment/static/css/main.d78d4d91.chunk.css.map",
-    "static/js/2.de094eab.chunk.js.LICENSE.txt": "http://alexeimoisseev.github.io/react-assignment/static/js/2.de094eab.chunk.js.LICENSE.txt"
+    "main.css": "https://alexeimoisseev.github.io/react-assignment/static/css/main.d78d4d91.chunk.css",
+    "main.js": "https://alexeimoisseev.github.io/react-assignment/static/js/main.4dd8235f.chunk.js",
+    "main.js.map": "https://alexeimoisseev.github.io/react-assignment/static/js/main.4dd8235f.chunk.js.map",
+    "runtime-main.js": "https://alexeimoisseev.github.io/react-assignment/static/js/runtime-main.b8f27f4f.js",
+    "runtime-main.js.map": "https://alexeimoisseev.github.io/react-assignment/static/js/runtime-main.b8f27f4f.js.map",
+    "static/js/2.de094eab.chunk.js": "https://alexeimoisseev.github.io/react-assignment/static/js/2.de094eab.chunk.js",
+    "static/js/2.de094eab.chunk.js.map": "https://alexeimoisseev.github.io/react-assignment/static/js/2.de094eab.chunk.js.map",
+    "index.html": "https://alexeimoisseev.github.io/react-assignment/index.html",
+    "precache-manifest.1c8cc66506d5841e383cabd246f97b3f.js": "https://alexeimoisseev.github.io/react-assignment/precache-manifest.1c8cc66506d5841e383cabd246f97b3f.js",
+    "service-worker.js": "https://alexeimoisseev.github.io/react-assignment/service-worker.js",
+    "static/css/main.d78d4d91.chunk.css.map": "https://alexeimoisseev.github.io/react-assignment/static/css/main.d78d4d91.chunk.css.map",
+    "static/js/2.de094eab.chunk.js.LICENSE.txt": "https://alexeimoisseev.github.io/react-assignment/static/js/2.de094eab.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8abf9fc5.js",
+    "static/js/runtime-main.b8f27f4f.js",
     "static/js/2.de094eab.chunk.js",
     "static/css/main.d78d4d91.chunk.css",
     "static/js/main.4dd8235f.chunk.js"
