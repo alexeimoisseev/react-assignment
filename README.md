@@ -31,4 +31,5 @@ https://alexeimoisseev.github.io/react-assignment/
 
 * Routing is using hashes, to be possible to serve on `gh-pages`.
 * To go back from selected user to all posts, click again on selected user in the list (should be improved in future versions).
+* Not mobile-friendly.
 * Tests are missing.
