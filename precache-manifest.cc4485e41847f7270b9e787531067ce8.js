@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9da51296f87df9e1f6b8637c7e3ac2e3",
+    "revision": "84e3487b4906490b91b256a9af55b7eb",
     "url": "https://alexeimoisseev.github.io/react-assignment/index.html"
   },
   {
-    "revision": "7992e7250b46b5d08847",
-    "url": "https://alexeimoisseev.github.io/react-assignment/static/css/main.d78d4d91.chunk.css"
+    "revision": "8e478491ca060db796ec",
+    "url": "https://alexeimoisseev.github.io/react-assignment/static/css/main.6e02e714.chunk.css"
   },
   {
     "revision": "c21af28f878301dd5fae",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://alexeimoisseev.github.io/react-assignment/static/js/2.26ede571.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7992e7250b46b5d08847",
+    "revision": "8e478491ca060db796ec",
     "url": "https://alexeimoisseev.github.io/react-assignment/static/js/main.c6835491.chunk.js"
   },
   {
